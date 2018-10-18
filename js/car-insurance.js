@@ -32,6 +32,8 @@ $(document).ready(function(){
         alert('Please enter your age.');
       }
 
+//don't forget to remove console.log for finished projects
+    console.log(age)
     event.preventDefault();
   });
 });
